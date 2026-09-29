@@ -1,10 +1,10 @@
-# Excersise 1: About Me 
+# Exercise 1: About Me
 
-My name is **[Sheharyar Humayun]**.
+My name is **Sheharyar Humayun**.
 
-My favorite hobby is *[Playing vedio games]*.
+My favorite hobby is *Playing video games*.
 
 Three things I enjoy doing:
-- [playing vedio games]
-- [Watching TV]
-- [Listening to music]
+- Playing video games
+- Watching TV
+- Listening to music
