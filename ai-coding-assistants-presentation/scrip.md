@@ -15,4 +15,4 @@ industry is responding. Companies now add AI code review, security scanning, and
 are shifting — less time writing routine code, more time reviewing, designing, and verifying. The consensus is that AI assists developers rather than replacing
 them, but it demands stronger review and testing practices. So what does this mean for us as students? Use these tools responsibly — treat AI output as a draft,
 always review and test it, and understand the code you ship. Stay current, because the tools evolve monthly. AI coding assistants are reshaping software development 
-faster, but with new risks. The developers who thrive will be those who use AI wisely and verify everything. Thanks for watching.
+faster, but with new risks. The developers who thrive will be those who use AI wisely and verify everything. Thanks for watching."
